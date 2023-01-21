@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .h1 {}
+
+    .btns {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
